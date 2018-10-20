@@ -1,15 +1,17 @@
 {
+	// Theme and Scheme
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+
+	// Font, Cursor, and Spacing
+	"font_size": 13,
 	"caret_extra_bottom": 2,
 	"caret_extra_top": 2,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 22,
-	"ignored_packages":
-	[
-	],
 	"line_padding_top": 10,
-	"show_full_path": true,
-	"use_simple_full_screen": true,
+	
+	// Vim Keybindings
+	"ignored_packages": [],
 	"vintage_start_in_command_mode": true
 }
